@@ -16,7 +16,7 @@ function Packages() {
     const [sort, setSort] = useState("default");
 
     useEffect(() => {
-        fetch("http://localhost:3001/packages")
+        fetch("https://explore-malaysia-9x3t.onrender.com/packages")
             .then(response => {
                 if (!response.ok) {
                     throw new Error("Failed to load packages");
