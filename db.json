@@ -15,7 +15,7 @@
       "category": "Culture",
       "duration": "2 Days 1 Night",
       "price": 280,
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbC-s_S5qbgMss2MraA3pwJo6-xKbafm0CJOXU10x-7BskvmxX7D-UkZbV&s=10"
     },
     {
       "id": 3,
@@ -23,7 +23,7 @@
       "category": "Nature",
       "duration": "3 Days 2 Nights",
       "price": 380,
-      "image": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8"
+      "image": "https://cdn.getyourguide.com/img/location/c6d9decb718da2c6.jpeg/68.jpg"
     },
     {
       "id": 4,
@@ -31,7 +31,7 @@
       "category": "City",
       "duration": "2 Days 1 Night",
       "price": 320,
-      "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07"
+      "image": "https://img.static-kl.com/transform/1f159175-0757-4f9e-a9a8-ec6dbd5bce68/"
     },
     {
       "id": 5,
@@ -39,7 +39,7 @@
       "category": "Adventure",
       "duration": "4 Days 3 Nights",
       "price": 650,
-      "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5"
+      "image": "https://www.amazingborneo.com/uploads/images/media/medium/[Blog]%20Mount%20Kinabalu/mountkinabalu.jpg"
     },
     {
       "id": 6,
@@ -47,7 +47,7 @@
       "category": "Heritage",
       "duration": "2 Days 1 Night",
       "price": 300,
-      "image": "https://images.unsplash.com/photo-1518005020951-eccb494ad742"
+      "image": "https://www.panpacific.com/content/dam/pphg-revamp/en/prmkz/homepage/hero/destination-insights/best-places-to-visit-in-melaka-my/porta-de-santiago-melaka-m.jpg"
     }
   ]
 }
