@@ -1,0 +1,53 @@
+
+{
+  "packages": [
+    {
+      "id": 1,
+      "destination": "Langkawi",
+      "category": "Beach",
+      "duration": "3 Days 2 Nights",
+      "price": 450,
+      "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+    },
+    {
+      "id": 2,
+      "destination": "Penang",
+      "category": "Culture",
+      "duration": "2 Days 1 Night",
+      "price": 280,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4"
+    },
+    {
+      "id": 3,
+      "destination": "Cameron Highlands",
+      "category": "Nature",
+      "duration": "3 Days 2 Nights",
+      "price": 380,
+      "image": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8"
+    },
+    {
+      "id": 4,
+      "destination": "Kuala Lumpur",
+      "category": "City",
+      "duration": "2 Days 1 Night",
+      "price": 320,
+      "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07"
+    },
+    {
+      "id": 5,
+      "destination": "Sabah",
+      "category": "Adventure",
+      "duration": "4 Days 3 Nights",
+      "price": 650,
+      "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5"
+    },
+    {
+      "id": 6,
+      "destination": "Melaka",
+      "category": "Heritage",
+      "duration": "2 Days 1 Night",
+      "price": 300,
+      "image": "https://images.unsplash.com/photo-1518005020951-eccb494ad742"
+    }
+  ]
+}
